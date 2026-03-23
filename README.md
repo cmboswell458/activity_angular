@@ -31,7 +31,7 @@ This project displays:
 
 ## 📷 Screenshot
 
-![Angular Activity Screenshot](./angular_activity.png)
+![Angular Activity Screenshot](./activity_angular.png)
 
 ## 👤 Author
 Crystal Michelle Boswell
